@@ -1,1 +1,3 @@
-# 2026-01-24-learning-about-version-control
+# Learning about Version Control
+
+**Author:** Nizel Abalos
